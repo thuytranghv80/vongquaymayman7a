@@ -1,0 +1,6 @@
+{
+  "name": "Vòng Quay May Mắn 7A1 - Giữ Chữ Tín",
+  "description": "Ứng dụng tương tác Vòng Quay May Mắn - Bứt Phá Kiến Thức môn Giáo dục công dân Lớp 7A1, chủ đề Giữ chữ tín.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
